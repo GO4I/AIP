@@ -1,0 +1,9 @@
+﻿  Zadanie9h.cpp
+C:\Users\DELL\source\repos\Zadanie9h\Zadanie9h\Zadanie9h.cpp(41,29): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\DELL\source\repos\Zadanie9h\Zadanie9h\Zadanie9h.cpp(44,29): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\DELL\source\repos\Zadanie9h\Zadanie9h\Zadanie9h.cpp(51,29): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\DELL\source\repos\Zadanie9h\Zadanie9h\Zadanie9h.cpp(54,29): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\DELL\source\repos\Zadanie9h\Zadanie9h\Zadanie9h.cpp(61,29): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\DELL\source\repos\Zadanie9h\Zadanie9h\Zadanie9h.cpp(64,29): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\DELL\source\repos\Zadanie9h\Zadanie9h\Zadanie9h.cpp(67,29): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+  Zadanie9h.vcxproj -> C:\Users\DELL\source\repos\Zadanie9h\Debug\Zadanie9h.exe

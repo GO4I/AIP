@@ -1,0 +1,4 @@
+﻿  Zadanie2j.cpp
+C:\Users\DELL\source\repos\Zadanie2j\Zadanie2j\Zadanie2j.cpp(15,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\DELL\source\repos\Zadanie2j\Zadanie2j\Zadanie2j.cpp(16,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Zadanie2j.vcxproj -> C:\Users\DELL\source\repos\Zadanie2j\Debug\Zadanie2j.exe
