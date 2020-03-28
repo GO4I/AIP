@@ -1,0 +1,3 @@
+﻿  Zadanie2h.cpp
+C:\Users\DELL\source\repos\Zadanie2h\Zadanie2h\Zadanie2h.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Zadanie2h.vcxproj -> C:\Users\DELL\source\repos\Zadanie2h\Debug\Zadanie2h.exe
