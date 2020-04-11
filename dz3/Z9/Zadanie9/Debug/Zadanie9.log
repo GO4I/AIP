@@ -1,0 +1,3 @@
+﻿  Zadanie9.cpp
+C:\Users\DELL\source\repos\Zadanie9\Zadanie9\Zadanie9.cpp(12,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Zadanie9.vcxproj -> C:\Users\DELL\source\repos\Zadanie9\Debug\Zadanie9.exe
