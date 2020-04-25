@@ -1,0 +1,4 @@
+﻿  Zadanie3b.cpp
+C:\Users\DELL\source\repos\Zadanie3b\Zadanie3b\Zadanie3b.cpp(18,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\DELL\source\repos\Zadanie3b\Zadanie3b\Zadanie3b.cpp(84,45): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+  Zadanie3b.vcxproj -> C:\Users\DELL\source\repos\Zadanie3b\Debug\Zadanie3b.exe

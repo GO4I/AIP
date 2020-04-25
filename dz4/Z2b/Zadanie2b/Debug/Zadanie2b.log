@@ -1,0 +1,4 @@
+﻿  Zadanie2b.cpp
+C:\Users\DELL\source\repos\Zadanie2b\Zadanie2b\Zadanie2b.cpp(32,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\DELL\source\repos\Zadanie2b\Zadanie2b\Zadanie2b.cpp(38,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Zadanie2b.vcxproj -> C:\Users\DELL\source\repos\Zadanie2b\Debug\Zadanie2b.exe
