@@ -1,0 +1,4 @@
+﻿  Zadanie1and2.cpp
+C:\Users\DELL\source\repos\Zadanie1and2\Zadanie1and2\Zadanie1and2.cpp(50,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\DELL\source\repos\Zadanie1and2\Zadanie1and2\Zadanie1and2.cpp(61,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Zadanie1and2.vcxproj -> C:\Users\DELL\source\repos\Zadanie1and2\Debug\Zadanie1and2.exe
